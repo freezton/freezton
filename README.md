@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm a student software engineer, currently studying in BSUIR. I specialize in web development using Java and Spring
+
 <!--
 **freezton/freezton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
